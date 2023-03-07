@@ -9,7 +9,7 @@ This repository contains analysis code for the HDAC5 ~ heroin gene expression pr
 
 If you use anything in this repository please cite the following publication:
 
-Pre-print URL:
+URL: https://www.pnas.org/doi/abs/10.1073/pnas.2210953120
 
 
 ## Files
